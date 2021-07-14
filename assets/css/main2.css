@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+.ngqp2k {
+    color: bisque;
+    text-align: center;
+    margin-top: 8rem;
+}
+
+#nameNQP {
+    text-align: left;
+    /* margin-left: 100px; */
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    letter-spacing: 7px;
+}
+
+#nameS {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+
+}
+
+#nameP {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+.myContainer {
+    padding: 5rem;
+    overflow: auto;
+
+}
+
+#left_Info {
+    width: 50%;
+    float: left;
+    padding-left: 3rem;
+}
+
+#right_Pic {
+    width: 50%;
+    float: right;
+}
+
+#PicBlack {
+    margin-top: 8rem;
+    margin-left: 6rem;
+    z-index: 1;
+}
+
+#PicCat {
+    margin-top: rem;
+    margin-left: 9.5rem;
+    z-index: 2;
+    position: absolute;
+}
