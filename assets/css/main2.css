@@ -40,25 +40,21 @@
 }
 
 #left_Info {
-    width: 50%;
+    max-width: 60%;
     float: left;
     padding-left: 3rem;
 }
 
 #right_Pic {
-    width: 50%;
+    max-width: 40%;
     float: right;
 }
 
-#PicBlack {
-    margin-top: 8rem;
-    margin-left: 6rem;
-    z-index: 1;
+#myImage{
+    padding-left: 1%;
 }
 
-#PicCat {
-    margin-top: rem;
-    margin-left: 9.5rem;
-    z-index: 2;
-    position: absolute;
+#st01 {
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
 }
